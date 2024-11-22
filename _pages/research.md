@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /research/
-title: Ongoing research
+title: Research
 description: 
 years: [2025,2024]
 type: [WP soon, in progress]
