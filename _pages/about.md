@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.parisschoolofeconomics.eu/en/pse-partnership-programme/chairs/labor-chair/'>PSE</a>. <a href='https://www.sciencespo.fr/department-economics/en.html'> Sciences Po </a>
+subtitle: mylene.feuillade@sciencespo.fr
 
 profile:
   align: right
@@ -14,7 +14,7 @@ profile:
     <p>Your City, State 12345</p> -->
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 I am a Post-Doctoral researcher in the Paris School of Economics, within the [Labor Chair](https://www.parisschoolofeconomics.eu/en/pse-partnership-programme/chairs/labor-chair/).
