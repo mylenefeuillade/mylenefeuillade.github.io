@@ -2,31 +2,50 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Mylène Feuillade
     - name: Date of Birth
-      value: 14th March 1879
+      value: 21st May 1994
     - name: Languages
-      value: English, German
+      value: English, French, Spanish (intermediary), Hungarian (beginner)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Economics
+      institution: Sciences Po, Paris, France
+      year: 2020-Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Topic: Spatial wage disparities and household location choices
+        - Supervisor: Pierre-Philippe Combes
+        - Expected Graduation: Spring 2025
+    - title: Master in Economics
+      institution: Sciences Po - Erasmus Mundus
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - title: First year: Master QEM – Models and methods of Quantitative Economics
+        contents:
+            - GPA: 3.92/4
+            - First semester: Universitat Autònoma de Barcelona
+            - Second semester: University Paris 1 - Panthéon Sorbonne
+       - title: Second Year: Sciences Po - Master in Economics 
+       contents:
+            - Graduated: with honors
+            - Master thesis: Quality of life in French cities (supervisor Pierre-Philippe Combes)
+
+    - title : Bachelor in Social Sciences, Economics Track
+    institution: Sciences Po
+    year: 2015
+    description:
+        - Courses: Multidisciplinary bachelor (economics, sociology, political science, history, law, international relations)
+    # \item \textbf{Sciences Po} \hfill{2012 - 2015}\\
+    # \textit{Bachelor in Social Sciences, Economics Track }
+    # \begin{itemize}
+    # \item \textbf{University of Auckland} (New Zealand) \\
+    # \textit{Year-Long Exchange Program, Mathematics and Economics (2014-2015)}
+    # \end{itemize}
+    
+    # \item \textbf{University Paris 1} \hfill{2012 - 2015}\\
+    # \textit{Bachelor of Applied Mathematics and Social Sciences} \textit{(with honors)}
 
 - title: Experience
   type: time_table
