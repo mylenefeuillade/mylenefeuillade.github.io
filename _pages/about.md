@@ -19,8 +19,8 @@ social: false # includes social icons at the bottom of the page
 ---
 I am a Post-Doctoral researcher in the Paris School of Economics, within the [Labor Chair](https://www.parisschoolofeconomics.eu/en/pse-partnership-programme/chairs/labor-chair/).
 
-I am conducting a PhD in Economics at [Sciences Po](https://www.sciencespo.fr/department-economics/en.html), under the supervision of [Pierre-Philippe Combes](https://sites.google.com/view/pierrephilippecombes/).
+I am also conducting a PhD in Economics at [Sciences Po](https://www.sciencespo.fr/department-economics/en.html), under the supervision of [Pierre-Philippe Combes](https://sites.google.com/view/pierrephilippecombes/).
 
 My research interests are in topics of urban, gender and labor economics. In particular, I am interested in understanding why men and women benefit differently from cities, and the role of household decisions in this gender gap. 
 
-# You can find my CV [here](https://mylenefeuillade.github.io/files/Feuillade_CV.pdf)
+You can find my CV [here](https://mylenefeuillade.github.io/assets/pdf/Feuillade_CV.pdf)
