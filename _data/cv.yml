@@ -2,32 +2,48 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Mylène Feuillade
     - name: Date of Birth
-      value: 14th March 1879
+      value: 21st May 1994
     - name: Languages
-      value: English, German
+      value: French, English, Spanish (intermediate), Hungarian (beginner)
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Sciences Po, Paris, France
+      year: 2025 (expected)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Topic: Spatial wage disparities and household location choices"
+        - "Supervisor: [Pierre-Philippe Combes](https://sites.google.com/view/pierrephilippecombes/)"
+    - title: Dual Master in Economics
+      institution: Sciences Po & Erasmus Mundus, Paris, France
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - "First year: [Erasmus Mundus Master QEM](https://master-economics-qem.eu/) - Models and Methods of Quantitative Economics 
+        contents:
+            - First Semester in Universitat Autònoma de Barcelona
+            - Second Semester in University Paris 1 - Panthéon Sorbonne
+            - "GPA: 3.92/4"
+        - "First year: [Sciences Po Master in Economics](https://www.sciencespo.fr/ecole-recherche/en/academics/masters/master-economics/)
+        contents:
+            - "Master Thesis: Quality of life in French cities, supervised by Pierre-Philippe Combes"
+            - Graduated with honors
+    - title: Bachelor in Social Sciences, Economics track
+      institution: Sciences Po, Paris, France
+      year: 2015
+      description:
+        - Multidisciplinary bachelor, with Economics specialisation
+        - Exchange year in the University of Auckland, New Zealand (2014-205)
 
+    - title: Bachelor of Applied Mathematics and Social Sciences
+      institution: University Paris 1 - Panthéon Sorbonne
+      year: 2015
+      description:
+        - "Main topics: mathematics (algebra, analysis, probability and statistics) and computer science"
+        - Graduated with honors (mention TB)
+        
 - title: Experience
   type: time_table
   contents:
