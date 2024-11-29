@@ -4,9 +4,9 @@
     - name: Full Name
       value: Mylène Feuillade
     - name: Date of Birth
-      value: 14th March 1879
+      value: 21st May 1994
     - name: Languages
-      value: English, German
+      value: French, English, Spanish (intermediary), Hungarian (beginner)
 
 - title: Education
   type: time_table
