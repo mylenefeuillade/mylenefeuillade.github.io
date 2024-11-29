@@ -1,7 +1,7 @@
 ---
-layout: cv
+layout: CV
 permalink: /cv/
-title: cv
+title: CV
 nav: true
 nav_order: 2
 cv_pdf: Feuillade_CV.pdf
