@@ -9,10 +9,11 @@ description:
 toc:
   sidebar: left
 ---
-<!-- 
-If I want the CV bar to directly lead to the pdf file -->
-<div style="width: 100%; height:800">
+
+# If I want the CV bar to directly lead to the pdf file
+<!-- <div style="width: 100%; height:800">
   <iframe src="../assets/pdf/Feuillade_CV.pdf" width="100%" height="800">
   Please click on the icon on the top right to download my CV if it does not show up in your browser. 
   </iframe>
 </div>
+ -->
