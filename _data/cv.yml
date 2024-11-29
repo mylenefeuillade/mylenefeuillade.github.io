@@ -13,7 +13,7 @@
   contents:
     - title: PhD
       institution: Sciences Po, Paris, France
-      year: 2020-2025 (expected)
+      year: 2020-present
       description:
         - "Topic: Spatial wage disparities and household location choices"
         - "Supervisor: <a href='https://sites.google.com/view/pierrephilippecombes/'>Pierre-Philippe Combes</a>"
@@ -47,7 +47,7 @@
   type: time_table
   contents:
     - title: Pre-Doctoral Research Associate
-      institution: INSEAD - Economics and Political Science Department, Fontainebleau, France
+      institution: <a href='https://www.insead.edu/faculty-research/academic-areas/economics-political-science'>INSEAD</a> - Economics and Political Science Department, Fontainebleau, France
       year: 2018-2020
       description:
         - "Worked for different professors (Lucia Del Carpio, Dimitrije Ruzic, Alexandra Roulet, Maria Guadalupe) on various projects in gender, labour and trade economics"
@@ -63,47 +63,34 @@
       description:
         - "Replication of three papers"
     - title: Intern
-      institution: OECD - PARIS21, Paris, France
-      year: Jan. 2017 - Jul. 2017
+      institution: <a href='https://www.paris21.org/'>OECD - PARIS21</a>, Paris, France
+      year: 2017
       description:
-        - "Assisted <a href='https://www.paris21.org/'>PARIS21</a> manager (drafted documents for international Task Teams, presentations, etc.)"
+        - "Assisted PARIS21's manager (drafted documents for international Task Teams, presentations, etc.)"
     - title: Evaluation Intern
       institution: <a href='https://ade.eu/'>ADE</a>, Louvain-la-Neuve, Belgium
-      year: June 2016 – Dec. 2016
+      year: 2016
       description:
         - "Participated in drafting evaluation reports and methodologies"
 
-- title: Open Source Projects
+- title: Grants and Awards
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: "A beautiful, simple, clean, and responsive Jekyll theme for academics."
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2023-2024
       items:
-        - "Nobel Prize in Physics"
-        - "Matteucci Medal"
-    - year: 2029
+        - "4th year PhD funding - <a href="https://www.parisschoolofeconomics.eu/en/research/research-initiatives/research-chairs/labor-chair/">Labour Chair</a>, Paris School of Economics"
+    - year: 2020-2023
       items:
-        - "Max Planck Medal"
+        - "Sciences Po Doctoral Program Full Funding"
+    - year: 2018
+      items:
+        - "<a href="https://www.sciencespo.fr/ecole-recherche/en/academics/masters/master-economics/best-thesis#annee-2017-2018">Best Master's Thesis in Economics</a>, Sciences Po"
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Urban and spatial Economics
       items:
-        - "Description 1."
-        - "Description 2."
-    - title: Topic 2.
-      items:
-        - "Description 1."
-        - "Description 2."
-
-- title: Other Interests
-  type: list
-  contents:
-    - "<u>Hobbies:</u> Hobby 1, Hobby 2, etc."
+        - "Agglomeration economies, real wage disparities, regional migration"
+    - title: Gender and Household Economics
+    - title: Labod Economics
