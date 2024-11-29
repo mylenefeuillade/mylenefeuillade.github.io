@@ -78,13 +78,13 @@
   contents:
     - year: 2023-2024
       items:
-        - "4th year PhD funding - <a href="https://www.parisschoolofeconomics.eu/en/research/research-initiatives/research-chairs/labor-chair/">Labour Chair</a>, Paris School of Economics"
+        - "4th year PhD funding - <a href='https://www.parisschoolofeconomics.eu/en/research/research-initiatives/research-chairs/labor-chair/'>Labour Chair</a>, Paris School of Economics"
     - year: 2020-2023
       items:
         - "Sciences Po Doctoral Program Full Funding"
     - year: 2018
       items:
-        - "<a href="https://www.sciencespo.fr/ecole-recherche/en/academics/masters/master-economics/best-thesis#annee-2017-2018">Best Master's Thesis in Economics</a>, Sciences Po"
+        - "<a href='https://www.sciencespo.fr/ecole-recherche/en/academics/masters/master-economics/best-thesis#annee-2017-2018'>Best Master's Thesis in Economics</a>, Sciences Po"
 
 - title: Academic Interests
   type: nested_list
