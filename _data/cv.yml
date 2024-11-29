@@ -8,6 +8,8 @@
     - name: Languages
       value: French, English, Spanish (intermediate), Hungarian (beginner)
 
+
+
 - title: Education
   type: time_table
   contents:
@@ -21,13 +23,13 @@
       institution: Sciences Po & Erasmus Mundus, Paris, France
       year: 2018
       description:
-        - "First year: [Erasmus Mundus Master QEM](https://master-economics-qem.eu/) - Models and Methods of Quantitative Economics 
-        contents:
+        - "First year: [Erasmus Mundus Master QEM](https://master-economics-qem.eu/) - Models and Methods of Quantitative Economics"
+        - contents:
             - First Semester in Universitat Autònoma de Barcelona
             - Second Semester in University Paris 1 - Panthéon Sorbonne
             - "GPA: 3.92/4"
-        - "First year: [Sciences Po Master in Economics](https://www.sciencespo.fr/ecole-recherche/en/academics/masters/master-economics/)
-        contents:
+        - "Second year: [Sciences Po Master in Economics](https://www.sciencespo.fr/ecole-recherche/en/academics/masters/master-economics/)"
+        - contents:
             - "Master Thesis: Quality of life in French cities, supervised by Pierre-Philippe Combes"
             - Graduated with honors
     - title: Bachelor in Social Sciences, Economics track
