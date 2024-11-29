@@ -21,8 +21,8 @@ nav_order: 4
 
 <ul>
     <li> 1st year undergraduate course </li>
-    <li> beginner level course to catch up on basic mathematics skills and prepare students for future courses </li>
-    <li> covered simple topics such as fractions, equations, fonctions, and helped students with their fear of matehmatics  </li>
+    <li> beginner level course to catch up on basic mathematics skills, overcome anxiety around maths and prepare students for future courses </li>
+    <li> covered simple topics such as fractions, equations, fonctions, simple geometry </li>
 </ul>
 
 
