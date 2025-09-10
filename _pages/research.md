@@ -4,12 +4,12 @@ permalink: /research/
 title: Research
 description: 
 years: [2025,2024]
-type: [WP soon, in progress]
+type: [WP, in progress]
 nav: true
 nav_order: 2
 ---
 
-### working papers
+### Working papers
 <div class="publications">
 
 {% for y in page.years %}
