@@ -17,7 +17,7 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
-I am a data scientist at the French [Inspéction Générale des Finances](https://www.igf.finances.gouv.fr/sites/igf/accueil.html) Previously, I did a post-doc at the Paris School of Economics, within the [Labor Chair](https://www.parisschoolofeconomics.eu/en/pse-partnership-programme/chairs/labor-chair/), and a PhD in Economics at [Sciences Po](https://www.sciencespo.fr/department-economics/en.html), under the supervision of [Pierre-Philippe Combes](https://sites.google.com/view/pierrephilippecombes/).
+I am a data scientist at the [Inspection Générale des Finances](https://www.igf.finances.gouv.fr/sites/igf/accueil.html). Previously, I did a post-doc at the Paris School of Economics, within the [Labor Chair](https://www.parisschoolofeconomics.eu/en/pse-partnership-programme/chairs/labor-chair/), and a PhD in Economics at [Sciences Po](https://www.sciencespo.fr/department-economics/en.html), under the supervision of [Pierre-Philippe Combes](https://sites.google.com/view/pierrephilippecombes/).
 
 My research lies at the intersection of urban, households, gender and labor economics. In particular, I am interested in understanding why men and women benefit differently from cities, and the role of household decisions in this gender gap. 
 
